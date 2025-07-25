@@ -106,9 +106,3 @@ chatstreamlit/
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-## 🙋‍♂️ Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
